@@ -1,4 +1,4 @@
-# Feed-reader-testing (https://github.com/evatsv/Feed-reader)
+# Feed-reader-testing (https://github.com/evatsv/Feed-reader-test)
 
 Project part of the [**Front-End Web Developer Nanodegree Udacity**]
 
@@ -18,7 +18,7 @@ In an existing project given to me by Udacity for my nanodegree course, using Ja
 ### To run this application
 
 Download or clone the repo and open the index.html on your browser <br/>
-or just click [**here**](https://github.com/evatsv/Feed-reader)
+or just click [**here**](https://github.com/evatsv/Feed-reader-test)
 
 ### User Stories:
 Top of the application: feed reader <br/>
