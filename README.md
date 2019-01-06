@@ -1,4 +1,4 @@
-# Feed-reader-testing (https://github.com/evatsv/Feed-reader-test)
+# Feed-reader-testing 
 
 Project part of the [**Front-End Web Developer Nanodegree Udacity**]
 
