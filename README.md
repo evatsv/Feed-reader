@@ -1,6 +1,6 @@
 # Feed-reader-testing 
 
-Project part of the [**Front-End Web Developer Nanodegree Udacity**]
+Project part of the **Front-End Web Developer Nanodegree Udacity**
 
 
 ### Code with: 
